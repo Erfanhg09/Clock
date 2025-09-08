@@ -19,3 +19,10 @@ body{
     font-size: 70px;
     
 }
+@media (max-width: 500px) {
+    .showclock {
+        max-width: 90%;
+        font-size: 35px  
+        
+    }
+}
